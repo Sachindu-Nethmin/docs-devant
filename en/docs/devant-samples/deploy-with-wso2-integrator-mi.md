@@ -48,7 +48,7 @@ This redirects you to the **Create New Integration in VS Code** page.
 5. Select **Log** and enter `Hello World` in the **Message** field. Then click **Add**.
 
     <div style="width: 80%;">
-    ![Design Integration](../../assets/img/devant-samples/develop-in-mi.gif)
+    ![Design Integration]({{base_path}}/assets/img/devant-samples/develop-in-mi.gif)
     </div>
 
 ## Step 4: Push to Devant
@@ -79,7 +79,7 @@ This redirects you to the **Create New Integration in VS Code** page.
 9. Your automation will now run every day at 01:00 AM. You can see the next execution time as **Next run in** in the Development card.
 
     <div style="width: 80%;">
-    ![View Logs](../../assets/img/devant-samples/devant-schedule.gif)
+    ![View Logs]({{base_path}}/assets/img/devant-samples/devant-schedule.gif)
     </div>
 
 10. After successfully testing, you can promote your automation to production by clicking the **Promote** button.

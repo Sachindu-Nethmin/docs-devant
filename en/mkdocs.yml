@@ -184,6 +184,7 @@ markdown_extensions:
 plugins:
     - search:
         lang: ['en']
+    - markdownextradata: {}
     - open-in-new-tab
 
     - exclude:

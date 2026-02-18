@@ -44,7 +44,7 @@ This redirects you to the **Create New Integration in VS Code** page.
 7. Click **Run** in the top right corner to run the automation. This compiles the automation and runs it in the embedded Ballerina runtime.
 
     <div style="width: 80%;">
-    ![Design Integration](../../assets/img/get-started/schedule-your-first-automation/design-integration.gif)
+    ![Design Integration]({{base_path}}/assets/img/get-started/schedule-your-first-automation/design-integration.gif)
     </div>
 
 ## Step 4: Push to Devant
@@ -71,7 +71,7 @@ This redirects you to the **Create New Integration in VS Code** page.
 9. Your automation will now run every day at 01:00 AM. You can see the next execution time as **Next run in** in the Development card.
 
     <div style="width: 80%;">
-    ![View Logs](../../assets/img/get-started/schedule-your-first-automation/view-logs.gif)
+    ![View Logs]({{base_path}}/assets/img/get-started/schedule-your-first-automation/view-logs.gif)
     </div>
 
 10. After successfully testing, you can promote your automation to production by clicking the **Promote** button.
@@ -83,5 +83,5 @@ This redirects you to the **Create New Integration in VS Code** page.
     - **Total Executions**: Total number of times the automation has been executed
 
     <div style="width: 80%;">
-    ![Automation Metrics](../../assets/img/get-started/schedule-your-first-automation/metrics.png)
+    ![Automation Metrics]({{base_path}}/assets/img/get-started/schedule-your-first-automation/metrics.png)
     </div>
